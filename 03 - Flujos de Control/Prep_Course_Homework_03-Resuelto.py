@@ -272,7 +272,6 @@ while (sigue == 1):
 
 # In[75]:
 
-
 n = 100
 while(n<=300):
     if (n % 6 == 0):
